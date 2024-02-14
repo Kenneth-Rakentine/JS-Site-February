@@ -1,0 +1,28 @@
+
+
+body{
+    display:flex;
+    background: #043d2ff8 url(https://grainy-gradients.vercel.app/noise.svg);
+    height:100vh;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* text-align:center; */
+    
+}
+
+.headContainer{
+    display:flex;
+    justify-content:center;
+    /* align-items:center; */
+    height:100%;
+    margin: 0 auto;
+    margin-top:6.7%;
+}
+
+h1{
+    color:rgb(164, 164, 198);
+    text-shadow: 2px 2px 4px black;
+    font-size:90px;
+    /* font: arial; */
+    letter-spacing: 9px;
+   
+}
